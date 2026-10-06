@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Top Langs](https://self-hosting-github-readme-stats.vercel.app/api/top-langs/?username=shiroppi&count_private=true&exclude_repo=dotfiles,self-hosting-github-readme-stats)
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=shiroppi&count_private=true&exclude_repo=dotfiles,self-hosting-github-readme-stats)
+![GitHub Stats Card](https://self-hosting-github-readme-stats.vercel.app/api?username=shiroppi&count_private=true&exclude_repo=dotfiles,self-hosting-github-readme-stats)
