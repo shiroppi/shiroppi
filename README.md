@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://self-hosting-github-readme-stats.vercel.app/api/top-langs/?username=shiroppi&count_private=true&exclude_repo=dotfiles,self-hosting-github-readme-stats)
-![GitHub Stats Card](https://self-hosting-github-readme-stats.vercel.app/api?username=shiroppi&count_private=true&exclude_repo=dotfiles,self-hosting-github-readme-stats)
+![Top Langs](https://self-hosting-github-readme-stats.vercel.app/api/top-langs/?username=shiroppi&layout=compact&count_private=true&hide=mdx,css,ejs,html&exclude_repo=dotfiles,self-hosting-github-readme-stats)
+![GitHub Stats Card](https://self-hosting-github-readme-stats.vercel.app/api?username=shiroppi&count_private=true)
